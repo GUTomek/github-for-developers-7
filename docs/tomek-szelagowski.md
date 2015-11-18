@@ -3,3 +3,4 @@
 1. Portland
 * Pizza
 * photography
+* Color: **black**
